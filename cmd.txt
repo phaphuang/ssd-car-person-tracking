@@ -1,0 +1,1 @@
+python realtime_objectdetection_and_tracking.py --display 1 --input videos/koper_highway.mp4 --resize 1367 --mask 400,520,850,700
